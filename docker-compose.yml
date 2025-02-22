@@ -1,0 +1,8 @@
+services:
+  web:
+    image: ruby:3.4.1
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/blog
+    working_dir: /blog
