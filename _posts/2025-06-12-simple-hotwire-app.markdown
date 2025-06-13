@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Simple Hotwire App"
-date:   2025-02-22 12:00:00 +0000
+date:   2025-06-12 12:00:00 +0000
 categories: hotwire, rails, tutorial
 ---
 Tldr
